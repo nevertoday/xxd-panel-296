@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 296"
+  short_description: "手势痕迹：上半保留原照，下半把主体收成一笔手势性的视觉痕迹"
+  default_prompt: "Use $xxd-panel-296 to transform my photograph following the complete canonical source brief."
