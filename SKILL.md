@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-296
-description: "Create XXD Panel 296 raster artwork: a faithful photograph paired with one reductive gestural mark, charcoal or ink, a broken contour and a large warm-white field. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-296 or asks for this 手势痕迹 style."
+description: "XXD Panel 296｜Gestural Trace: keeps the photo and leaves its subject as one small semi-abstract gestural trace, using the least information that still makes it recognisable — a single stroke, one block of tone or one stretch of contour carrying the identity, drawn with directional, fast charcoal, ink or graphite marks rather than an outline, with friction, breaks, repeated corrections and uneven edges, allowed to dissolve or go missing between abstraction and likeness — on warm white paper in black and grey ink with one emotional colour from the photo, isolated small, off-centre, suspended or cropped in extreme whitespace, with a tiny archive-number style note in a modern editorial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-296 or asks for a gestural charcoal mark, calligraphic semi-abstract symbol or minimal brush-trace logo from a photo."
 ---
 
 # XXD Panel 296

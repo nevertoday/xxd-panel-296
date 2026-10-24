@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 296｜Gestural Trace: keeps the photo and leaves its subject as one small semi-abstract gestural trace, using the least information that still makes it recognisable — a single stroke, one block of tone or one stretch of contour carrying the identity, drawn with directional, fast charcoal, ink or graphite marks rather than an outline, with friction, breaks, repeated corrections and uneven edges, allowed to dissolve or go missing between abstraction and likeness — on warm white paper in black and grey ink with one emotional colour from the photo, isolated small, off-centre, suspended or cropped in extreme whitespace, with a tiny archive-number style note in a modern editorial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-296 or asks for a gestural charcoal mark, calligraphic semi-abstract symbol or minimal brush-trace logo from a photo.",
+  "short_description": "手势痕迹：把照片主体收成一笔有速度的炭笔或墨迹，停在抽象与可辨认之间",
+  "zh-CN": {
+    "name": "手势痕迹",
+    "tagline": "把照片主体收成一笔有速度和方向的炭笔或墨迹痕迹。",
+    "look": "原照片保留；主体只留下能被认出的最低信息量，一笔、一块色或一段轮廓就承担全部识别，停在抽象和具象之间。不是精确描边，而是有方向、力度和节奏的炭笔、墨线或石墨痕迹，带摩擦、断裂、重复修正和不均匀边缘，局部可以消散、缺失。暖白纸面上只有黑灰墨色，再加一种来自照片的情绪色。符号很小，孤立在大片空白里，可偏心、悬置或被边缘裁切，旁边一个极短的字像艺术档案编号。",
+    "traits": ["手势炭笔", "半抽象", "负空间", "暖白纸面", "单一焦点"],
+    "good": [
+      "动作或姿态强烈的主体：奔跑的马、跳水的人、飞起的鸟、甩头的狗",
+      "线条或走势鲜明的对象：一道浪、一棵被风吹弯的树、一条山脊",
+      "想做成艺术印章、书法感标志或展览符号的照片"
+    ],
+    "poor": [
+      "希望看清细节和五官的照片，这里只留几笔",
+      "需要丰富颜色或明亮配色的用途",
+      "想要完整插画、普通素描、写实描绘或卡通 Logo 的需求"
+    ]
+  },
+  "en": {
+    "name": "Gestural Trace",
+    "tagline": "Leaves the subject of your photo as one charcoal or ink trace with speed and direction.",
+    "look": "Your photo stays; the subject keeps only the minimum needed to recognise it, so one stroke, one block of tone or one stretch of contour carries everything, poised between abstraction and likeness. It is not a careful outline but charcoal, ink or graphite marks with direction, force and rhythm, showing friction, breaks, repeated corrections and uneven edges, and parts may dissolve or go missing. On warm white paper there is only black and grey, plus one emotional colour from the photo. The symbol is small and isolated in wide whitespace, off-centre, suspended or cropped by the edge, with one very short label like an art-archive number.",
+    "traits": ["Gestural charcoal", "Semi-abstract", "Negative space", "Warm white paper", "Single focus"],
+    "good": [
+      "Subjects with strong movement or posture: a galloping horse, a diver, a bird taking off, a dog shaking its head",
+      "Things with a clear line or flow: a wave, a tree bent by wind, a mountain ridge",
+      "Photos you want as an art seal, a calligraphic mark or an exhibition symbol"
+    ],
+    "poor": [
+      "Photos where you want detail and facial features, since only a few strokes remain",
+      "Uses that need rich or bright colour",
+      "Requests for a full illustration, an ordinary sketch, a realistic drawing or a cartoon logo"
+    ]
+  },
+  "ja": {
+    "name": "身ぶりの痕跡",
+    "tagline": "写真の主役を、速さと方向をもった木炭や墨のひと筆の痕跡として残します。",
+    "look": "元の写真は残し、主役は見分けられる最小限の情報だけにします。ひと筆、ひとかたまりの色、ひと続きの輪郭がすべてを担い、抽象と具象のあいだにとどまります。丁寧な縁取りではなく、方向と力とリズムのある木炭、墨、鉛筆の跡で、擦れ、途切れ、描き直し、不揃いな縁があり、部分的に消えたり欠けたりします。温かな白い紙の上には黒とグレーの墨色だけ、そこに写真から取った感情の色をひとつ加えます。記号は小さく広い余白に孤立し、中心からずれたり、浮いたり、縁で切れたりして、そばにアートアーカイブの番号のような短い文字がひとつ添えられます。",
+    "traits": ["ジェスチャーの木炭", "半抽象", "ネガティブスペース", "温かな白い紙", "ひとつの焦点"],
+    "good": [
+      "動きや姿勢の強い主役：駆ける馬、飛び込む人、飛び立つ鳥、頭を振る犬",
+      "線や流れがはっきりした対象：波、風にしなる木、山の稜線",
+      "アートのはんこ、書のようなマーク、展覧会の記号にしたい写真"
+    ],
+    "poor": [
+      "細部や目鼻立ちをはっきり見たい写真（残るのは数筆だけです）",
+      "豊かな色や明るい配色が必要な用途",
+      "完成したイラスト、普通の素描、写実描写、キャラクターロゴを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "몸짓의 흔적",
+    "tagline": "사진 속 주인공을 속도와 방향이 있는 목탄이나 먹의 한 획 흔적으로 남깁니다.",
+    "look": "원본 사진은 남기고, 주인공은 알아볼 수 있는 최소한의 정보만 남깁니다. 한 획, 한 덩어리의 색, 한 줄기 윤곽이 모든 것을 맡아 추상과 구상 사이에 머뭅니다. 정교한 외곽선이 아니라 방향과 힘, 리듬이 있는 목탄, 먹, 흑연 자국이며, 마찰, 끊김, 반복된 수정, 고르지 않은 가장자리가 있고 군데군데 흩어지거나 비기도 합니다. 따뜻한 흰 종이 위에는 검정과 회색 먹빛뿐이고, 사진에서 가져온 감정의 색 하나가 더해집니다. 심벌은 작고 넓은 여백에 홀로 떨어져 있으며, 중심에서 비켜나거나 떠 있거나 가장자리에 잘리기도 하고, 옆에 예술 아카이브 번호 같은 아주 짧은 글자가 붙습니다.",
+    "traits": ["몸짓의 목탄", "반추상", "네거티브 공간", "따뜻한 흰 종이", "하나의 초점"],
+    "good": [
+      "움직임이나 자세가 강한 주인공: 달리는 말, 다이빙하는 사람, 날아오르는 새, 머리를 터는 개",
+      "선이나 흐름이 뚜렷한 대상: 파도, 바람에 휜 나무, 산등성이",
+      "예술 인장, 서예 같은 마크, 전시 심벌로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "디테일과 이목구비를 또렷이 보고 싶은 사진(몇 획만 남습니다)",
+      "풍부한 색이나 밝은 색이 필요한 용도",
+      "완성형 일러스트, 평범한 소묘, 사실 묘사, 만화풍 로고를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "أثر الإيماءة",
+    "tagline": "يترك العنصر الرئيسي في صورتك أثراً واحداً من الفحم أو الحبر فيه سرعة واتجاه.",
+    "look": "تبقى صورتك، ولا يبقى من العنصر إلا الحد الأدنى الذي يكفي للتعرف عليه، فتحمل ضربة واحدة أو كتلة لونية واحدة أو امتداد خط واحد كل شيء، معلّقة بين التجريد والشبه. ليس تحديداً دقيقاً، بل آثار فحم أو حبر أو غرافيت لها اتجاه وقوة وإيقاع، فيها احتكاك وانقطاع وتصحيحات متكررة وحواف غير متساوية، وقد يتلاشى بعضها أو يغيب. على ورق أبيض دافئ لا يوجد إلا الأسود والرمادي، مع لون عاطفي واحد من الصورة. الرمز صغير ومعزول وسط فراغ واسع، بعيداً عن المركز أو معلّقاً أو مقصوصاً عند الحافة، ومعه تسمية قصيرة جداً كرقم في أرشيف فني.",
+    "traits": ["فحم إيمائي", "شبه تجريدي", "مساحة سالبة", "ورق أبيض دافئ", "بؤرة واحدة"],
+    "good": [
+      "عناصر ذات حركة أو وضعية قوية: حصان يعدو، غطّاس، طائر يقلع، كلب ينفض رأسه",
+      "أشياء لها خط أو انسياب واضح: موجة، شجرة حنتها الريح، خط سلسلة جبلية",
+      "صور تريدها ختماً فنياً أو علامة بروح الخط أو رمزاً لمعرض"
+    ],
+    "poor": [
+      "صور تريد فيها التفاصيل وملامح الوجه، إذ لا تبقى إلا ضربات قليلة",
+      "استخدامات تحتاج ألواناً غنية أو زاهية",
+      "طلب رسم كامل أو رسم تخطيطي عادي أو رسم واقعي أو شعار كرتوني"
+    ]
+  }
+}
